@@ -7,12 +7,7 @@
 [![](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/rayhanadev.com)
 [![](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://www.rayhanadev.com/blog)
 
-Hey there! I’m Ray, a software engineer with experience in web development, anti-abuse eng, and mobile app development!
-
-- 🎓 Honors Cybersecurity Major at Purdue
-- 💻 Previously at: Replit, Magic Prints, Deel
-- 💡 Experience: React, Typescript, Go, Rust, K8s
-- 📌 Interests: Software Engineering, Web Development
+3+ years of [experience](https://www.rayhanadev.com/resume) growing engineering at YC-backed startups 🪴. researching tech justice at purdue university. building ethical and equitable software for the next 10 billion developers.
 
 ---
 
