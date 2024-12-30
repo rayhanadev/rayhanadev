@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/rayhanadev.com)
 [![](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://www.rayhanadev.com/blog)
 
-3+ years of [experience](https://www.rayhanadev.com/resume) growing engineering at YC-backed startups 🪴. researching tech justice at purdue university. building ethical and equitable software for the next 10 billion developers.
+3+ years of [experience](https://www.rayhanadev.com/resume.pdf) growing engineering at YC-backed startups 🪴. researching tech justice at purdue university. building ethical and equitable software for the next 10 billion developers.
 
 ---
 
