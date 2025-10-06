@@ -9,8 +9,8 @@
 
 4+ years of [experience](https://www.rayhanadev.com/resume.pdf) growing engineering at YC-backed startups 🪴. Researching tech justice at Purdue University. Building ethical and equitable software for the next 10 billion developers.
 
----
-
 > More Information: [www.rayhanadev.com](https://www.rayhanadev.com)
+
+---
 
 <sub>NOTE: Any repository under the `rayhanadev` namespace, unless otherwise specified, follows the [MIT License](https://opensource.org/license/mit) and is FOSS.<sub>
