@@ -12,3 +12,5 @@
 ---
 
 > More Information: [www.rayhanadev.com](https://www.rayhanadev.com)
+
+<sub>NOTE: Any repository under the `rayhanadev` namespace, unless otherwise specified, follows the [MIT License](https://opensource.org/license/mit) and is FOSS.<sub>
