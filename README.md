@@ -2,7 +2,7 @@
 Author: Ray Arayilakath <me@rayhanadev.com>
 Date: Sat Jan 24 11:29:06 2026 -0800
 
-  Hey there! Welcome to my Github!
+  hey there, welcome to my github! :)
 
   * current: infra at million.dev
   * prev: replit.com, deel.com, others
