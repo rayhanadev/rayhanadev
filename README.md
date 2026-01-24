@@ -12,4 +12,4 @@ Date: Sat Jan 24 11:29:06 2026 -0800
   * linkedin: linkedin.com/in/rayhanadev
 ```
 
-<sub>NOTE: Any repository under the `rayhanadev` namespace, unless otherwise specified, follows the [MIT License](https://opensource.org/license/mit) and is FOSS.<sub>
+<sub>NOTE: Any public repository under the `rayhanadev` namespace, unless otherwise specified, follows the [MIT License](https://opensource.org/license/mit) and is FOSS.<sub>
