@@ -4,7 +4,7 @@ Date: Sat Jan 24 11:29:06 2026 -0800
 
   hey there, welcome to my github! :)
 
-  * current: infra at million.dev
+  * current: eng at million.dev
   * prev: replit.com, deel.com, others
 
   * personal: www.rayhanadev.com
